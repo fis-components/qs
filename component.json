@@ -1,6 +1,6 @@
 {
+    "version": "v5.2.0",
     "repos": "https://github.com/hapijs/qs.git",
-    "version": "v6.0.0",
     "name": "qs",
     "main": "index.js"
 }
