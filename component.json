@@ -1,6 +1,0 @@
-{
-    "repos": "https://github.com/hapijs/qs.git",
-    "name": "qs",
-    "main": "index.js",
-    "version": "v4.0.0"
-}
